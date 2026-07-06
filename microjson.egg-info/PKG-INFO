@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: microjson
+Version: 1.0.0
+Summary: Greenfield Micro Suite command-line tool.
+Author: Justin Kyu
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Environment :: Console
+Classifier: Topic :: Utilities
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# MicroJSON
+
+Tiny JSON validator and formatter.
+
+## Usage
+
+python3 -m microjson file.json
+
+Features
+
+- Validate JSON
+- Pretty-print JSON
+- Uses only Python's standard library

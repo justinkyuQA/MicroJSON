@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+microjson/__init__.py
+microjson/__main__.py
+microjson/cli.py
+microjson.egg-info/PKG-INFO
+microjson.egg-info/SOURCES.txt
+microjson.egg-info/dependency_links.txt
+microjson.egg-info/entry_points.txt
+microjson.egg-info/top_level.txt
